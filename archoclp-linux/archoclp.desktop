@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=ArchOCLP
+Comment=Experimental OpenCore EFI builder and macOS installer downloader
+Exec=archoclp-gui
+Icon=computer
+Terminal=false
+Categories=System;Utility;
+StartupNotify=true
